@@ -1,0 +1,20 @@
+[
+  {
+    "id": "demo-001",
+    "category": "general_knowledge",
+    "question": "What is MMLU?",
+    "expected_contains": "MMLU"
+  },
+  {
+    "id": "demo-002",
+    "category": "science",
+    "question": "Explain photosynthesis.",
+    "expected_contains": "Photosynthesis"
+  },
+  {
+    "id": "demo-003",
+    "category": "coding",
+    "question": "Write a Python function to add two numbers.",
+    "expected_contains": "Demo coding path selected"
+  }
+]
